@@ -1,0 +1,5 @@
+D:\Personal\ACA\Proyectos\ACA_SIL\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Personal\ACA\Proyectos\ACA_SIL\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\ACA\Proyectos\ACA_SIL\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Personal\ACA\Proyectos\ACA_SIL\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Personal\ACA\Proyectos\ACA_SIL\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
